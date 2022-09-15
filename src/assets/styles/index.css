@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&family=Quicksand&display=swap");
+
+body {
+    margin: 0;
+    font-family: "Montserrat";
+    background-color: #1D1D1D;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    margin: 40px auto;
+    justify-content: flex-start;
+}
