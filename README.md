@@ -1,4 +1,4 @@
-# hello-world
+# Auth-Vue
 
 ## Project setup
 ```
